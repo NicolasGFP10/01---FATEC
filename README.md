@@ -1,1 +1,6 @@
-# 01---FATEC
+# 01 - FATEC
+
+### O que é esse repositório?
+
+Este lugar eu usarei para salvar todos os projetos que fiz durante os meus estudos na Fatec, desde códigos mais simples, até os mais complexos. 
+Sinta-se a vontade para baixá-los e estudá-los em seu computador.
